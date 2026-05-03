@@ -20,7 +20,7 @@ JavaScript ES6+ · HTML5 · CSS3
 
 **Languages & Tools**
 ```
-C/C++ · Python · SQL · Kotlin · Git · VSCode
+C/C#/C++ · Python · SQL · Kotlin · Git · VSCode
 ```
 
 ---
